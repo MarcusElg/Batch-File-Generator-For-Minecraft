@@ -1,4 +1,4 @@
-# Minecraft-Batch-File-Generator
+# Minecraft Batch File Generator
 A program for batch generating files for Minecraft mod and resourcepack creation
 
 ![Example](editor.png)
