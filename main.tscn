@@ -102,8 +102,8 @@ rect_min_size = Vector2( 500, 500 )
 window_title = "Open a Directory"
 mode = 2
 access = 2
-current_dir = "/Users/marcu/Documents/Github/Minecraft-Batch-File-Generator"
-current_path = "/Users/marcu/Documents/Github/Minecraft-Batch-File-Generator/"
+current_dir = "/Users/marcu/Documents/Github/Batch-File-Generator-For-Minecraft"
+current_path = "/Users/marcu/Documents/Github/Batch-File-Generator-For-Minecraft/"
 
 [node name="-- Constants --" type="Node" parent="Panel/ScrollContainer/MarginContainer/VBoxContainer"]
 
